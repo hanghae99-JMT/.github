@@ -2,7 +2,7 @@
 
 ## Introduce
 
-"Youtube 영상 첨부"
+[![Video Label](http://img.youtube.com/vi/oVdUptFr44c/0.jpg)](https://youtu.be/oVdUptFr44c)
 
 ## Skil Set
 
