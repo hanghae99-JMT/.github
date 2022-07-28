@@ -12,7 +12,7 @@
 | React | Spring boot | MySQL | AWS |
 
 ## Project Structure
-![Slide1](https://user-images.githubusercontent.com/66009926/180599960-ed995e0e-2323-4c12-a54d-6da946f8e0cd.jpg)
+![Untitled](https://user-images.githubusercontent.com/66009926/181502335-ead103a3-8c39-4ec5-a946-a52962f3f49f.png)
 
 ## How to use
 
